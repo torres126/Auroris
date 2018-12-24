@@ -146,7 +146,6 @@ function CommandModules() {
 		}
 		
 		if(penguin.username.toLowerCase() !== 'hagrid' 
-				&& penguin.username.toLowerCase() !== 'codey'
 				&& penguin.username.toLowerCase() !== 'joee'
 				&& penguin.username.toLowerCase() !== 'stuff'
 				&& penguin.username.toLowerCase() !== 'stuffington'
