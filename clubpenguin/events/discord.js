@@ -30,7 +30,7 @@ function baseLog(data, mention = true) {
 	var message = ` ~~                                                                   ~~\n${_data}\n`;
 	
 	if(mention) {
-		message += `<@180656781276610560>`;
+		message += `User ID to ping on Discord`;
 	}
 	
 	return message;
